@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: SolutecLocalizator
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi
+MIDlet-Jar-Size: 20310
+MIDlet-1: SolutecLocalizator,,
+RIM-COD-Creation-Time: 1299515825
+MIDlet-Jar-URL: SolutecLocalizator.jar
+RIM-COD-URL: SolutecLocalizator.cod
+RIM-COD-SHA1: 84 76 0c c1 0a 0f 8e da 8d 6c 25 1e 52 b1 2d 7b d7 fb 6e 61
+RIM-COD-Size: 9244
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: SolutecLocalizator
+MIDlet-Description: GPS Coordinates Sender
+MIDlet-Vendor: Solutec Ltda
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

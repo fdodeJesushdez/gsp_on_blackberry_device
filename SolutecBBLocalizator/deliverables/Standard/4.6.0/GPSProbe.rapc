@@ -1,0 +1,11 @@
+MIDlet-Name: SolutecBBLocalizator
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Solutec Ltda
+MIDlet-Description: Localizador basado en m?dulo GPS integrado en BB
+MIDlet-Jar-URL: SolutecBBLocalizator.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: GPS Only App Probe,,
+RIM-MIDlet-Flags-1: 0
+

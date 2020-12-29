@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: Security_Process
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi
+MIDlet-Jar-Size: 13390
+MIDlet-1: Proceso de seguridad,img/icon.png,
+RIM-COD-Creation-Time: 1300389560
+MIDlet-Jar-URL: Security_Process.jar
+RIM-COD-URL: Security_Process.cod
+RIM-COD-SHA1: 31 d2 58 ef ae 41 1b 47 de bd 91 a0 80 20 cd 79 ab d5 00 65
+RIM-COD-Size: 6180
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0
+MIDlet-Name: Security_Process
+MIDlet-Description: Funcionalidad gps-udp ejecutada en background
+MIDlet-Vendor: Solutec Ltda
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 1

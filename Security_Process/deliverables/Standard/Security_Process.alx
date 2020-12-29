@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Security_Process">
+		<name >
+			Proceso de seguridad
+		</name>
+		<description >
+			Funcionalidad gps-udp ejecutada en background
+		</description>
+		<version >
+			1.0
+		</version>
+		<vendor >
+			Solutec Ltda
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Solutec Ltda
+		</copyright>
+		<fileset Java="1.52" _blackberryVersion="[4.6.0)">
+			<directory >
+				4.6.0
+			</directory>
+			<files >
+				Security_Process.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

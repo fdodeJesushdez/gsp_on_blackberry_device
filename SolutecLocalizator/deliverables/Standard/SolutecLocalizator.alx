@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="SolutecLocalizator">
+		<name >
+			SolutecLocalizator
+		</name>
+		<description >
+			GPS Coordinates Sender
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Solutec Ltda
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Solutec Ltda
+		</copyright>
+		<fileset Java="1.52" _blackberryVersion="[4.6.0)">
+			<directory >
+				4.6.0
+			</directory>
+			<files >
+				SolutecLocalizator.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: GPS_UDP_BackgroundFunctionallity
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi
+MIDlet-Jar-Size: 11677
+MIDlet-1: ,img/icon.png,
+RIM-COD-Creation-Time: 1299712703
+MIDlet-Jar-URL: GPS_UDP_BackgroundFunctionallity.jar
+RIM-COD-URL: GPS_UDP_BackgroundFunctionallity.cod
+RIM-COD-SHA1: 34 1e ee 73 ea 63 21 87 6e 04 bd c0 38 b0 ad fe e6 69 82 fb
+RIM-COD-Size: 5216
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0.1
+MIDlet-Name: GPS_UDP_BackgroundFunctionallity
+MIDlet-Vendor: Vendor
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

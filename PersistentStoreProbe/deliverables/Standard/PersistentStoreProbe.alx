@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="PersistentStoreProbe">
+		<name >
+			
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			0.0.1
+		</version>
+		<vendor >
+			Vendor
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Vendor
+		</copyright>
+		<fileset Java="1.52" _blackberryVersion="[4.6.0)">
+			<directory >
+				4.6.0
+			</directory>
+			<files >
+				PersistentStoreProbe.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

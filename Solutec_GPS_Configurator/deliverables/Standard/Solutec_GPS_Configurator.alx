@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Solutec_GPS_Configurator">
+		<name >
+			Solutec Configurador GPS
+		</name>
+		<description >
+			Configura servicio GPS que corre background
+		</description>
+		<version >
+			1.0
+		</version>
+		<vendor >
+			Solutec Ltda
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Solutec Ltda
+		</copyright>
+		<fileset Java="1.52" _blackberryVersion="[4.6.0)">
+			<directory >
+				4.6.0
+			</directory>
+			<files >
+				Solutec_GPS_Configurator.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

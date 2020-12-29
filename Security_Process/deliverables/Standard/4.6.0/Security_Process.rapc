@@ -1,0 +1,11 @@
+MIDlet-Name: Security_Process
+MIDlet-Version: 1.0
+MIDlet-Vendor: Solutec Ltda
+MIDlet-Description: Funcionalidad gps-udp ejecutada en background
+MIDlet-Jar-URL: Security_Process.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Proceso de seguridad,img/icon.png,
+RIM-MIDlet-Flags-1: 1
+

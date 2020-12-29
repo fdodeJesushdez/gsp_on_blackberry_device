@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: GPSDemo
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi
+MIDlet-Jar-Size: 38747
+MIDlet-1: GPS,img/gpsdemo_jde.png,
+RIM-COD-Creation-Time: 1299701704
+MIDlet-Jar-URL: GPSDemo.jar
+RIM-COD-URL: GPSDemo.cod
+RIM-COD-SHA1: 07 ea ab 9b 36 6e 9e e6 2c 65 30 cf b9 f2 1b ba e9 60 66 97
+RIM-COD-Size: 17356
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.9
+MIDlet-Name: GPSDemo
+MIDlet-Vendor: Research In Motion Ltd.
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

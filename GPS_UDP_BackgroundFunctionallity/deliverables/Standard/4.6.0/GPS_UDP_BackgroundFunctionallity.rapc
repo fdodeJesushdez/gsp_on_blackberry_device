@@ -1,0 +1,10 @@
+MIDlet-Name: GPS_UDP_BackgroundFunctionallity
+MIDlet-Version: 0.0.1
+MIDlet-Vendor: Vendor
+MIDlet-Jar-URL: GPS_UDP_BackgroundFunctionallity.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+

@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: GPSProbe
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi
+MIDlet-Jar-Size: 12002
+MIDlet-1: GPS Only App Probe,,
+RIM-COD-Creation-Time: 1300384265
+MIDlet-Jar-URL: SolutecBBLocalizator.jar
+RIM-COD-URL: GPSProbe.cod
+RIM-COD-SHA1: af 62 7b 62 0e 6b d6 74 2d 45 2e 32 58 dd 84 05 5c 9c 56 1a
+RIM-COD-Size: 4756
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: SolutecBBLocalizator
+MIDlet-Description: Localizador basado en m?dulo GPS integrado en BB
+MIDlet-Vendor: Solutec Ltda
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
